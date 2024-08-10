@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="Assets/2024-08-10-18-18-05.png" align="center" height="150"></img>
+    <img src="Assets/2024-08-10-18-20-44.png" align="center" height="150"></img>
 </p>
 
 <h1 align="center"> NetViz 📊🔐</h1> 
